@@ -27,27 +27,27 @@ This is a clean & simple to do list application built with **React Native**, **E
 ### 🟡 Home Screen 
 Shows monthly calendar, current date already selected, and a progress ring for each day
 
-<img src="./assets/screenshots/home-empty.jpeg" width="300"/>
+<img src="./assets/screenshots/home-empty-temp.jpeg" width="300"/>
 
 ---
 ### 🟠 Add a Task Screen
 Users can create a new task pressing "+" button on the right bottom corner and by entering the title, date, and optionally the time.
 
-<img src="./assets/screenshots/add-task.jpeg" width="300"/>
+<img src="./assets/screenshots/add-task-temp.jpeg" width="300"/>
 
 ---
 
 ### 🟢 Home Screen (With Tasks)
 Tasks appear for the selected day with checkboxes on the left. The progress ring updates as tasks are marked complete.
 
-<img src="./assets/screenshots/home-with-tasks.jpeg" width="300"/>
+<img src="./assets/screenshots/home-with-tasks-temp.jpeg" width="300"/>
 
 ---
 
 ### 🔵 Task Details & Notes
 Edit a task's title, date, time, and add custom notes by pressing on the task. This is useful for reminders or additional task info.
 
-<img src="./assets/screenshots/task-details.jpeg" width="300"/>
+<img src="./assets/screenshots/task-details-temp.jpeg" width="300"/>
 
 ---
 ## How to Try the App
